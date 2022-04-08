@@ -1,5 +1,8 @@
 # banda_testovoe
 
+## GitHub Pages
+https://donthurtme73.github.io/RandomBeer/
+
 ## Project setup
 ```
 npm install
