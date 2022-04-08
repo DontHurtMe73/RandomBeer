@@ -124,10 +124,4 @@ export default {
         padding-right: 10px;
         padding-bottom: 20px;
     }
-
-    @media screen and (max-height: 750px) {
-        .app{
-            height: auto;
-        }
-    }
 </style>
